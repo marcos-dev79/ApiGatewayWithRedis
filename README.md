@@ -27,7 +27,7 @@ Substituir o IP da AWS por localhost:8080
 
 ## Tecnologias
 
-Desenvolvido usando Spring BOOT + Redis para Cache, feito o Deploy com Docker na AWS.
+Desenvolvido usando Spring BOOT + Redis para Cache, feito o Deploy com Docker na AWS. Foram adicionados dois testes unitarios com Junit e Mockito.
 
 # TODOs
 
