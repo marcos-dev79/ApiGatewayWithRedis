@@ -1,0 +1,13 @@
+org\example\services\HotelService.class
+org\example\Domains\Category.class
+org\example\DTOs\HotelDeserializer$1.class
+org\example\restAPI\ApiGatewayController.class
+org\example\Domains\Hotel.class
+org\example\Domains\PriceDetail.class
+org\example\DTOs\HotelDeserializer.class
+org\example\Domains\Room.class
+org\example\Domains\Price.class
+org\example\Domains\ResponseRoom.class
+org\example\ApiGatewayMain.class
+org\example\DTOs\AbstractDeserializer.class
+org\example\Domains\ResponseHotel.class
