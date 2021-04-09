@@ -1,7 +1,8 @@
 # ApiGatewayWithRedis
 Api Gateway with Redis and Springboot example 
 
-## Rodando atualmente na AWS em containeres usando Docker
+## Obs: INSTANCIA AWS FOI DESATIVADA.
+Rodava na AWS em containeres usando Docker
 
 ## Exemplos de chamada:
 
